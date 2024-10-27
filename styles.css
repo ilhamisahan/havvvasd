@@ -97,10 +97,10 @@ button:hover {
 .final-message {
     color: white;
     background-color: black;
-    font-size: 1.5em; /* Yazı boyutunu artır */
+    font-size: 1em; /* Yazı boyutunu artır */
     padding: 20px; /* Daha fazla iç boşluk ekleyin */
     border-radius: 10px; /* Kenarları yuvarlaştırmak için */
-    text-align: justify;
+    text-align: left;
 }
 
 .checking-message {
